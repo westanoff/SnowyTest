@@ -11,7 +11,7 @@ package
 			var textField:TextField = new TextField(400, 300, "Welcome to Starling!");
 			addChild(textField);
 			
-			var q:Quad = new Quad( 100, 100, 0xffff00ff );
+			var q:Quad = new Quad( 100, 100, 0xff00ff00 );
 			q.x = 20;
 			q.y = 20;
 			addChild( q );
