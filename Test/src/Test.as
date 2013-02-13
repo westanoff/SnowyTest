@@ -11,7 +11,7 @@ package
 		
 		public function Test()
 		{
-			_starling = new Starling(Game, stage);
+			_starling = new Starling(Game, stage );
 			_starling.start();			
 		}
 	}
